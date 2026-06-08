@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CAS Web SolutionsStudio",
+  title: "CAS Web Solutions",
   description: "Sites simples e profissionais para pequenos negócios.",
 };
 

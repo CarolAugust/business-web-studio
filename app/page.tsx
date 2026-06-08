@@ -351,10 +351,10 @@ export default function Home() {
 
             <div className="min-w-0 leading-tight">
               <p className="truncate text-sm font-black uppercase text-white">
-                Carol
+                CAS
               </p>
               <p className="truncate text-[11px] font-black uppercase tracking-[0.16em] text-emerald-300">
-                Web Studio
+                Web Solutions
               </p>
             </div>
           </a>
@@ -396,7 +396,7 @@ export default function Home() {
         className="mx-auto grid min-h-screen max-w-6xl items-center gap-10 px-4 pb-14 pt-28 sm:px-6 lg:grid-cols-[1fr_0.9fr]"
       >
         <div>
-          <SectionLabel>CAS Web SolutionsStudio</SectionLabel>
+          <SectionLabel>CAS Web Solutions</SectionLabel>
 
           <h1 className="mt-4 max-w-3xl text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">
             Sites simples e profissionais para pequenos negócios
@@ -674,7 +674,7 @@ export default function Home() {
 
       <footer className="border-t border-white/10 px-4 py-8 sm:px-6">
         <div className="mx-auto flex max-w-6xl flex-col gap-3 text-center text-sm text-zinc-400 md:flex-row md:items-center md:justify-between md:text-left">
-          <p>© 2026 CAS Web SolutionsStudio. Todos os direitos reservados.</p>
+          <p>© 2026 CAS Web Solutions. Todos os direitos reservados.</p>
           <p>Você cuida do seu negócio. Eu cuido da sua página na internet.</p>
         </div>
       </footer>
